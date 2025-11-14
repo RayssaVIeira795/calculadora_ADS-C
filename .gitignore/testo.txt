@@ -1,0 +1,4 @@
+para atualizar o terminal:
+
+toda vez que for salvar ou textar colocar esse codigo:
+ g++ Calculadora.cpp -o calculadoraADS.exe
