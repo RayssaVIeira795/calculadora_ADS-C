@@ -4,7 +4,6 @@
 #include <iomanip>
 #include <algorithm>
 
-
 using namespace std;
 
 // Função para calcular o fatorial
